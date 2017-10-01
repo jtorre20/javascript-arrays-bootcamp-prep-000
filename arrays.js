@@ -39,7 +39,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
 }
 function removeElementFromBeginningOfArray(array){
   //var dogs = ["zoe", "mia", "princess"];
-  array.slice(0);
+  array.slice(1);
   return array
 }
 function destructivelyRemoveElementFromEndOfArray(){
